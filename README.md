@@ -41,17 +41,7 @@ This project demonstrates a simple webpage with a **sticky header** (fixed navba
 
 ---
 
-## File Structure
 
-The project includes the following files:
-
-. ├── index.html # Main HTML file ├── styles.css # CSS file for styling ├── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
----
 
 ## How to Use
 
